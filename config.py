@@ -5,7 +5,7 @@ TOKEN = "MTQ0MDI0NTAxMTQ0MTc3ODgxMg.GxddQJ.p65W5JnMSz4qwTef6Ve8sgiuQ_u_mwfhQoZ5V
 
 RULE_CHANNEL_ID = 1439639573750611968
 
-EMBED_IMG_URL = "https://cdn.discordapp.com/attachments/1261796252463534130/1262762427611877527/banner_1.png?ex=6697c6a7&is=66967527&hm=85074cee521390841a54481147b384fcfc598903d68ed30a65def5aa154f8a7d&" # embed image url
+EMBED_IMG_URL = "https://cdn.discordapp.com/attachments/1439639573750611968/1441535731003559998/Logo_Yellow_D.gif?ex=69222644&is=6920d4c4&hm=ef493a73c851396f4cf8999f879f7cef601fa0b28d745f4639293c73a4f4dbf0" # embed image url
 
 
 
